@@ -4,7 +4,7 @@ A hands-on investigation where I manually tested popular websites and apps to fi
 https://trello.com/b/2akSNdCe/example-bug-reports-2025-nathaniel-tesfaye
 
 ## How It Was Done
-
+Here's how the project was done:
 ### Scope
 A range of well-known platforms, from social media, to video games, to maps, to food delivery, etc. were the targets of this project. Well-known platforms were the target because it shows that even industry-leading products have flaws. This highlights how crucial rigorous QA is, especially in an era where many companies have deprioritised thorough testing.
 
